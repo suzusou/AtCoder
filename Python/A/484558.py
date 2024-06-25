@@ -1,0 +1,1 @@
+print("{:0>2}".format(hex(int(input()))[2:].upper()))
