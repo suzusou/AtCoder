@@ -1,4 +1,7 @@
 .vscode
 .exe
 /contest/
+
+# 解けない
 B=C.py
+ABAandBAB.py
